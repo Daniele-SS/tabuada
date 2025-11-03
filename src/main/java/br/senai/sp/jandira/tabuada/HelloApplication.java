@@ -29,6 +29,7 @@ public class HelloApplication extends Application {
 
         //Adicionar um label ao header
         Label labelTitulo = new Label("Tabuada");
+        labelTitulo.setStyle("-fx-text-fill: white; -fx-font-size: 25; -fx-font-weight: Bold");
         header.getChildren().add(labelTitulo);
 
         stage.setScene(scene);
