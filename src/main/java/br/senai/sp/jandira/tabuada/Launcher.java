@@ -1,4 +1,4 @@
-package br.senai.sp.jandira.tabuada;
+package main.java.br.senai.sp.jandira.tabuada;
 
 import javafx.application.Application;
 
