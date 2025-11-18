@@ -48,7 +48,7 @@ public class HelloApplication extends Application {
         Label labelTitulo = new Label("Tabuada");
         labelTitulo.setStyle("-fx-text-fill: white;-fx-font-size: 22; -fx-font-weight: bold");
 
-        Label labelSubTitulo = new Label("Contrua tabuadas sem limites!");
+        Label labelSubTitulo = new Label("Construa tabuadas sem limites!");
         labelSubTitulo.setStyle("-fx-text-fill: #ffff");
 
         header.getChildren().add(labelTitulo);
